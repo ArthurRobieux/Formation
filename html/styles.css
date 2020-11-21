@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto', serif;
+    background: gray;
+    margin: 50px;
+}
+
+.title {
+    color: yellow;
+}
